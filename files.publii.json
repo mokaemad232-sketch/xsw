@@ -1,0 +1,142 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c63f34d3170ecd16653701d5d1a6e708"
+    },
+    {
+        "path": "a-fresh-perspective-on-sofa-cleaning-in-dubai-beyond-appearance.html",
+        "type": "file",
+        "md5": "5acaf5e0b1720517da6d61058d157e3e"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrwh",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrwh/index.html",
+        "type": "file",
+        "md5": "fc2c1389ebbb5f0a69283715ed3ea10d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "0a1a5108a265397d37cdbd81691f5bdd"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "1be7a4b5ab4c5be20b937b9c9d7c6643"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "46604d3e482827e756f85b49fc9e809c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "262f6c13d80346fd031d4b1581d3c53d"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b701d3310313801e11ac1e1eff1eee0e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "sofa-cleaning-in-dubai-and-the-importance-of-upholstery-care.html",
+        "type": "file",
+        "md5": "a9c2dd23a66b60c6a60d155f26e8aaa3"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "de1092e192c3ce70c26dd77e7f25a28e"
+    },
+    {
+        "path": "why-sofa-cleaning-in-dubai-is-now-a-core-part-of-home-maintenance.html",
+        "type": "file",
+        "md5": "6f8e2e971cef6a4846a816019bec0b3f"
+    }
+]
